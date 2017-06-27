@@ -1,0 +1,302 @@
+{
+  "settings": {
+    "name": "Aardvark Anterprises",
+    "currentPage": "404.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f1c40f",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 7,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/aardvarkants-banner-145x52px-128x82.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Aardvark Anterprises Home",
+        "meta_descr": "A B2B Business-to-Business Boutique for Entrepreneurs, Startups and SME. We aim to develop your brand, processes, products and services according to the latest trends. Includes Business Process Outsourcing (BPO) and Innovation & Productivity Best Practices.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "50px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#000"
+            }
+          },
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header9",
+          "_anchor": "header9-2",
+          "_params": {
+            "tabs": "4",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
+            "showHeader": true,
+            "showText": true,
+            "showImages": true,
+            "showTitles": true
+          },
+          "title": "<br>Welcome to Aardvark Anterprises",
+          "text": "Your Business is our Business.",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-2\" aria-expanded=\"false\">Business</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2\" aria-expanded=\"false\">Travel</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2\" aria-expanded=\"true\">Technologies</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2\" aria-expanded=\"false\">TRADING</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2\">Beautiful</a></li>",
+          "media11": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media21": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title1": "Make Your Business Better",
+          "text1": "As a entrepreneur, start-up hero, SME or even MNCs, let our friendly business consultants help you according the latest trends and best practices. Find learning resources, mentors, consultants and support services here! <a href=\"http://business.aardvarkants.com\" target=\"_blank\"><b>CLICK HERE</b></a>&nbsp;",
+          "media12": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1509x1080.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media22": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "title2": "Aardvark Travel Services",
+          "text2": "Roam the seven seas, experience what the world has to offer, make wonderful memories, bring back souvenirs. Rinse and repeat! <br>Book your unforgettable travel journey. <a href=\"http://travel.aardvarkants.com\" target=\"_blank\"><b>CLICK HERE</b></a>!",
+          "media13": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1614x1080.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media23": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "responsive",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "title3": "Aadvark Technologies",
+          "text3": "Technologies that make your work, life and business more efficient and simplier! Choose from the large selection of the latest pre-made services, or customise solutions for every need. Toward Innovation and Productivity! <a href=\"http://tech.aardvarkants.com\">CLICK HERE</a>!",
+          "media14": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media24": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "shopping-cart",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "title4": "The Aardvark Trading Co",
+          "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
+          "media15": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb5.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media25": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title5": "IMAGE/CONTENT SLIDER",
+          "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
+          "media16": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb6.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media26": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "title6": "CONTACT FORMS",
+          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum."
+        }
+      ]
+    },
+    "404.html": {
+      "settings": {
+        "header_custom": "",
+        "meta_descr": "",
+        "title": "404",
+        "html_before": "---\npermalink: /404.html\n---"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase"
+            },
+            ".form-control-label": {}
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-6",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/header/03.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#ecf0f1",
+            "showSubtitle": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "subtitle": "THE PAGE YOU ARE LOOKING FOR...",
+          "title": "404 OOPs!&nbsp;",
+          "text": "The page that you are searching for either doesn't exist, or you have typed a wrong web address. <br>Please let us know what you were doing before this error occured. Or <a href=\"index.html\">click here</a> to return to the Home Page.",
+          "form": {
+            "action": "aardvarkants@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "iconName": "<img src=\"@PROJECT_PATH@/assets/images/icon-name.png\">",
+          "iconEmail": "<img src=\"@PROJECT_PATH@/assets/images/icon-email.png\">",
+          "iconPhone": "<img src=\"@PROJECT_PATH@/assets/images/icon-phone.png\">",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        }
+      ]
+    }
+  }
+}
