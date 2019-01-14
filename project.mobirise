@@ -19,11 +19,10 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true
-      },
-      "additionalSetColors": []
+      }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 19,
+    "uniqCompNum": 8,
     "versionPublish": "4.8.10",
     "favicon": "@PROJECT_PATH@/assets/images/aardvarkants-banner-145x52px-128x82.png",
     "noImageResize": "",
@@ -50,7 +49,8 @@
               "font-weight": "700"
             },
             ".subtitle": {
-              "color": "#fff"
+              "color": "#000000",
+              "font-size": "20px"
             },
             ".mbr-section-subtitle.lead": {
               "text-transform": "uppercase",
@@ -62,6 +62,12 @@
             ".testimonial-position": {
               "font-style": "italic",
               "color": "#666666"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".testimonial-text B": {
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -211,13 +217,15 @@
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features16",
+              "linkInNewWindow": false,
               "name": "rocket",
-              "link": "https://mobirise.com",
+              "family": "cm-icon",
+              "active": true,
+              "link": "index.html#features15-e",
               "size": 0,
               "color": "#fc7a60",
-              "family": "cm-icon"
+              "newWindow": false
             }
           },
           "media5": {
@@ -254,7 +262,7 @@
           "caption3": "Instead of seeing other businesses as rivals, lets form synergistic partnerships with each other and add more value in the business value chain! We can do more together!",
           "title4": "Unlimited Sites",
           "subtitle4": "Business Opportunities",
-          "caption4": "Finding it hard to&nbsp;",
+          "caption4": "Finding it hard to get ahead or wanting ways to succeed? Find more business opportunities, seek out other B2B services, connect with other businesses and to get the latest business trends and data.&nbsp;",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -344,8 +352,8 @@
             "overlayOpacity": 0.5
           },
           "mainTitle": "<span style=\"font-weight: normal;\">2. Business Support</span>",
-          "mainSubtitle": "Our full suite of services and solutions to support your business!",
-          "title1": "A. Branding",
+          "mainSubtitle": "Our full suite of services and solutions to support your business journey!",
+          "title1": "A. Business Startup Services",
           "title2": "B. &nbsp;Outsourcing Solutions",
           "title3": "C. Solving Business Challenges&nbsp;",
           "title4": "4. Business Advisory",
@@ -357,10 +365,10 @@
           "title10": "10. Awesome Reports",
           "title11": "11. Design out of the box",
           "title12": "12. Awesome Reports",
-          "date1": "See our Branding Services&nbsp;",
-          "date2": "2 Ferbuary 2016",
-          "date3": "3 March 2016",
-          "date4": "4 April 2016",
+          "date1": "<i>For Budding and Inspiring Entrepreneurs</i>",
+          "date2": "<i>For Startups and Growing Businesses&nbsp;</i>",
+          "date3": "<i>For Transitioning Businesses</i><br>",
+          "date4": "<i>For Larger Enterprises</i>",
           "date5": "5 May 2016",
           "date6": "6 June 2016",
           "date7": "7 July 2016",
@@ -369,10 +377,10 @@
           "date10": "10 October 2016",
           "date11": "11 November 2016",
           "date12": "12 December 2016",
-          "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text1": "Every starting business needs to have a business registration, products and services to sell, a means to market and promote your brand, as well as a presence like a website or office. Let us solve your business startup needs!<br>",
+          "text2": "Your business needs are growing, and you need fast and quick solutions. Let us manage your core processes and help you focus on what you do best: Earn Profits!<br>From Branding, IT, Marketing, HR, Accounting and Secretarial Solutions.",
+          "text3": "As a business progresses, we face an ever growing wall of problems. From hiring, training and managing top talent, increasing profits and sales, opening up to new market segment, or simply evolving to fit in the new digital and design economies, we are here to help you every step of the way! &nbsp;&nbsp;",
+          "text4": "Large organisations requires systemetic and well-organised strategies and change management. Let our Business consultants analyse your business &amp; organisational needs, recommend you the best course of action, and project management your way to greater success!",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
           "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
@@ -430,7 +438,7 @@
           },
           "title": "3. The Aardvark Business Networks",
           "text": "Joining hands, forging parnerships for better synergies with fellow businesses!",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2\" aria-expanded=\"true\">Travel</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2\" aria-expanded=\"false\">TechnoloGY</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2\" aria-expanded=\"false\">TRADING</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2\" aria-expanded=\"false\">Am</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2\">Beautiful</a></li>",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-2\" aria-expanded=\"false\">About</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-2\" aria-expanded=\"false\">TechnoloGY</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-2\" aria-expanded=\"false\">TRADING</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-2\" aria-expanded=\"false\">TravelS</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-2\" aria-expanded=\"true\">Beautiful</a></li>",
           "media11": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
@@ -457,20 +465,19 @@
           "text1": "As a entrepreneur, start-up hero, SME or even MNCs, let our friendly business consultants help you according the latest trends and best practices. Find learning resources, mentors, consultants and support services here! <b><a href=\"http://business.aardvarkants.com\" target=\"_blank\"><b>CLICK HERE</b></a>!</b>&nbsp;",
           "media12": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-1509x1080.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1255.jpg",
               "class": "card-img-top",
               "active": true,
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "media22": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header5",
               "linkInNewWindow": false,
-              "name": "rocket",
+              "name": "smile-face",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -478,8 +485,8 @@
               "color": "@primaryColor"
             }
           },
-          "title2": "The World to You Travel Services",
-          "text2": "Roam the seven seas, experience what the world has to offer, make wonderful memories, bring back souvenirs. Rinse and repeat! <br>Book your unforgettable travel journey. <a href=\"http://travel.aardvarkants.com\" target=\"_blank\"><b>CLICK HERE</b></a>!",
+          "title2": "The Aardvark Business Networks",
+          "text2": "Join our networks as a personal or corporate member to reap the benefits of being part of a large networked community! From business conventions, &nbsp;collaboration opportunities, access to new markets and consolidated resources, it benefits you to open up and get yourself out there, with us!&nbsp;",
           "media13": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-1614x1080.jpg",
@@ -498,13 +505,14 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://technology.aardvarkants.com",
               "size": 0,
-              "color": "@primaryColor"
+              "color": "@primaryColor",
+              "newWindow": false
             }
           },
           "title3": "Aadvark Technologies",
-          "text3": "<p>Technologies that make your work, life and business more efficient and simplier! Choose from the large selection of the latest pre-made services, or customise solutions for every need. Toward Innovation and Productivity! <a href=\"http://tech.aardvarkants.com\" target=\"_blank\"><b>CLICK HERE</b></a><a href=\"http://tech.aardvarkants.com\"><b></b></a>!</p>",
+          "text3": "<p>Technologies that make your work, life and business more efficient and simplier! Choose from the large selection of the latest trending technology services, or customised solutions for every need. Toward Innovation and technological advancement! <a href=\"http://tech.aardvarkants.com\" target=\"_blank\"><b>CLICK HERE</b></a><a href=\"http://tech.aardvarkants.com\"><b></b></a>!</p>",
           "media14": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
@@ -523,33 +531,38 @@
               "name": "shopping-cart",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://trading.aardvarkants.com",
               "size": 0,
-              "color": "@primaryColor"
+              "color": "@primaryColor",
+              "newWindow": false
             }
           },
           "title4": "The Aardvark Trading Co",
           "text4": "Trade: Buy and sell products. Set up a physical store or E-Commerce solutions. Looking for advise, &nbsp;supplier relations, or a marketplace to trade your goods, we have it all covered. A one-stop commerce solutions for you and your business.<b> <a href=\"http://trading.aardvarkants.com\" target=\"_blank\"><b>Click Here</b></a></b>!",
           "media15": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb5.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
               "class": "card-img-top",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media25": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
+              "linkInNewWindow": false,
+              "name": "globe",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
+              "color": "@primaryColor"
             }
           },
-          "title5": "IMAGE/CONTENT SLIDER",
-          "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
+          "title5": "The World to You Travel Services",
+          "text5": "Roam the seven seas, experience what the world has to offer, make wonderful memories, bring back souvenirs. Rinse and repeat! <br>Book your unforgettable travel journey. <a href=\"http://travel.aardvarkants.com\" target=\"_blank\">CLICK HERE</a>!",
           "media16": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/nb6.png",
@@ -593,7 +606,7 @@
             "ShowTexts": true,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "columns": 3,
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/features/01.jpg",
             "parallax": false,
@@ -610,23 +623,26 @@
           "title": "4. Business Opportunities",
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb7.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x960.jpg",
               "class": "card-img-top",
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "See Available Projects",
+          "caption1": "Have any projects that require services? Have goods that you want to buy or sell? See here for a list of opportunities for your business to bid for and to place ads!",
           "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "Participate in Forums and Social Networks",
+          "caption2": "Post questions, find answers to common issues amongst business owners; or talk to clients to find out their needs. Participate in Social networking to connect with people that matter.",
           "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "Seek out Business Directories",
+          "caption3": "Have your business registered or posted on a prominent business directory and allow your customers to find you easily! Or to find other b2b services to resolve your business needs!",
           "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "Utilise Business Intelligence",
+          "caption4": "Trends, facts and figures, as well as in-depth analysis and recommendations of the latest business information.&nbsp;",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -694,7 +710,7 @@
             "showBrand": false,
             "hideButtons": false,
             "sticky": true,
-            "collapsed": true,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#2c3e50",
             "fontSize": 0.875,
@@ -702,7 +718,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Promoting Entreprenership</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Read about Business Trends</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Entrepreneurship Guidance</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Startup Incubation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Aardvark Entrepreneurship Center of Excellence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Internship and Mentorship Programmes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Personal &amp; Group Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Incubation Programe</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coworking Spaces&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Support Services &amp; Solutions</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Business Networks</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Travel Network</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Trading</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Technology</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Opportunities</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Visit</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-sun2 mbr-iconfont mbr-iconfont-btn\"></span>Promoting Entreprenership</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Read about Business Trends</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Entrepreneurship Guidance</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Startup Incubation</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Aardvark Entrepreneurship Center of Excellence</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Internship and Mentorship Programmes</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Personal &amp; Group Coaching</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Incubation Programe</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Coworking Spaces&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\"><span class=\"mbri-setting mbr-iconfont mbr-iconfont-btn\"></span>Support Services &amp; Solutions</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">For New Entrepreneurs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">For Startups &amp; Growing Businesses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">For Transitioning Businesses</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">For Larger<br> Enterprises</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>Business Networks</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Travel Network</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Trading</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Technology</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><span class=\"mbri-rocket mbr-iconfont mbr-iconfont-btn\"></span>Opportunities</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">See Available Projects</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Business Forums &amp; Social Networks</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Business Directories</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Business Intelligence</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Visit</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -726,19 +742,9 @@
           "_anchor": "menu-h"
         },
         {
-          "_styles": {
-            ".mbr-section-subtitle, .mbr-section-text": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "margin-bottom": "20px",
-              "margin-top": "0"
-            }
-          },
+          "_styles": {},
           "_params": {
-            "logo": true,
             "showTitles": true,
-            "showButtons": true,
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
@@ -753,7 +759,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/colorm-logo.png",
+              "src": "@THEME_PATH@/components/_images/colorm_logo.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com"
@@ -764,36 +770,65 @@
               "size": 0
             }
           },
-          "title1": "product",
-          "text11": "Popular",
-          "text12": "Trending",
-          "text13": "Catalog",
-          "text14": "Awesome",
-          "text15": "Best",
+          "title1": "What we do",
+          "text11": "Promote Entrepreneurship",
+          "text12": "Support Businesses",
+          "text13": "Form Networks",
+          "text14": "Create Opportunities",
+          "text15": "",
           "title2": "company",
-          "text21": "Press",
-          "text22": "Features",
-          "text23": "Mission",
-          "text24": "Strategy",
-          "text25": "Works",
+          "text21": "About Us",
+          "text22": "Our Team",
+          "text23": "Mission| Strategy | Goals",
+          "text24": "The Aardvark Business Hubs",
+          "text25": "Innovation and Incubation Centers of Excellence&nbsp;",
           "title3": "Learn more",
-          "text31": "Support",
-          "text32": "Developers",
-          "text33": "Service",
-          "text34": "Starter pack",
+          "text31": "Our Publications",
+          "text32": "Under Incubation",
+          "text33": "Aardvark Network Membership",
+          "text34": "Find/ Post Opportunities",
           "text35": "FAQ",
+          "title4": "CONTACT",
+          "text41": "Locations",
+          "text42": "Trending",
+          "text43": "Catalog",
+          "text44": "Awesome",
+          "text45": "Best",
           "titled1": "Private policy",
-          "titled2": "Terms & Conditions",
-          "titled3": "Copyright Notifications",
+          "textd1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt dolores suscipit assumenda ut, voluptatum repellendus perspiciatis minus quia adipisci similique ipsa, officia qui ducimus necessitatibus aut laudantium aliquid non, fuga maxime quibusdam maiores. Enim deleniti quod maxime quos eveniet distinctio.",
           "followtext": "follow us",
-          "text": "Copyright (c) 2016 <a href=\"https://mobirise.com\">Mobirise</a>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "text": "Copyright (c) 2018&nbsp;<a href=\"https://mobirise.com\" class=\"text-primary\">Aardvark Anterprises</a>.",
+          "buttons1": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove,-mbrBtnColor\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "form": {
+            "action": "hello@aardvarkants.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "footer3",
-          "_anchor": "footer3-i"
+          "_name": "footer9",
+          "_anchor": "footer9-m"
         }
       ]
     },

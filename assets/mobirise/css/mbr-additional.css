@@ -719,7 +719,8 @@ blockquote {
   font-weight: 700;
 }
 #header8-7 .subtitle {
-  color: #fff;
+  color: #000000;
+  font-size: 20px;
 }
 #header8-7 .mbr-section-subtitle.lead {
   text-transform: uppercase;
@@ -733,6 +734,12 @@ blockquote {
 #header8-7 .testimonial-position {
   font-style: italic;
   color: #666666;
+}
+#header8-7 .mbr-section-title {
+  color: #ffffff;
+}
+#header8-7 .testimonial-text B {
+  font-size: 20px;
 }
 #features16-9 .mbr-section-title {
   font-weight: 700;
@@ -844,17 +851,6 @@ blockquote {
 #menu-h .dropdown-item[aria-expanded="true"] {
   color: #f1c40f!important;
 }
-#footer3-i .mbr-section-subtitle,
-#footer3-i .mbr-section-text {
-  color: #fff;
-}
-#footer3-i .mbr-section-subtitle {
-  margin-bottom: 20px;
-  margin-top: 0;
-}
 #form1-6 .mbr-section-subtitle {
   text-transform: uppercase;
-}
-#form1-6 .form-control-label {
-  color: undefined;
 }
